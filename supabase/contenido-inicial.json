@@ -1,0 +1,130 @@
+{
+  "contenido": {
+    "hero_saludo": "Hola, soy Melani 👋 Bienvenida a mi estudio",
+    "hero_frase": "Más que pestañas, diseñamos confianza",
+    "hero_subtitulo": "Pestañas, cejas y micropigmentación en San Lorenzo, Paraguay.",
+    "hero_foto": "/fotos/melani-hero.webp",
+    "sobre_mi_titulo": "Sobre mí",
+    "sobre_mi_texto": "Soy Melani Cristine. Hace años me dedico a realzar miradas con técnicas delicadas y personalizadas. Cada clienta es única, por eso escucho lo que buscás y diseño un resultado que te haga sentir segura y vos misma.\n\nAtiendo personalmente en mi estudio de San Lorenzo, y también enseño a otras chicas que quieren empezar en este hermoso oficio.",
+    "sobre_mi_foto": "/fotos/melani-sobre-mi.webp",
+    "servicios_intro": "Cada servicio se adapta a tu mirada y a tu estilo.",
+    "consulta_valores": "Consultá valores por WhatsApp",
+    "cursos_intro": "Formación presencial, en grupos reducidos, para que empieces con bases firmes.",
+    "testimonios_intro": "Algunos de nuestros trabajos y lo que dicen las clientas.",
+    "reservar_titulo": "Reservá tu cita",
+    "reservar_texto": "Todas las reservas se hacen por WhatsApp. Escribime y coordinamos el día y horario que mejor te quede."
+  },
+  "categorias": [
+    { "slug": "pestanas", "nombre": "Pestañas", "orden": 1 },
+    { "slug": "cejas", "nombre": "Cejas", "orden": 2 },
+    { "slug": "micropigmentacion", "nombre": "Micropigmentación", "orden": 3 }
+  ],
+  "servicios": [
+    {
+      "slug": "clasicas-naturales", "categoria": "pestanas", "nombre": "Clásicas Naturales", "orden": 1,
+      "descripcion": "Una extensión sobre cada pestaña natural: mayor longitud, curvatura y un acabado delicado para el día a día.",
+      "beneficios": [], "duracion_resultado": null, "fotos": ["/fotos/servicios/clasicas-naturales.webp", "/fotos/servicios/clasicas-naturales-2.webp"]
+    },
+    {
+      "slug": "volumen-ligero", "categoria": "pestanas", "nombre": "Volumen Ligero (Soft Volume)", "orden": 2,
+      "descripcion": "Abanicos 3D para una mirada más rellena, ligera y delicada.",
+      "beneficios": ["Más volumen sin verse pesado", "Acabado suave y femenino", "Ideal si buscás más densidad"],
+      "duracion_resultado": null, "fotos": ["/fotos/servicios/volumen-ligero.webp"]
+    },
+    {
+      "slug": "volumen-brasileno", "categoria": "pestanas", "nombre": "Volumen Brasileño", "orden": 3,
+      "descripcion": "Efecto más negro, definido y llamativo con abanicos ligeros: mayor densidad y un acabado glamuroso.",
+      "beneficios": [], "duracion_resultado": null, "fotos": ["/fotos/servicios/volumen-brasileno.webp", "/fotos/servicios/volumen-brasileno-2.webp"]
+    },
+    {
+      "slug": "efecto-wispy", "categoria": "pestanas", "nombre": "Efecto Wispy", "orden": 4,
+      "descripcion": "Longitud, textura y volumen estratégico con “picos” que sobresalen: un acabado liviano y con movimiento.",
+      "beneficios": [], "duracion_resultado": null, "fotos": ["/fotos/servicios/efecto-wispy.webp", "/fotos/servicios/efecto-wispy-2.webp"]
+    },
+    {
+      "slug": "efecto-foxy-eyes", "categoria": "pestanas", "nombre": "Efecto Foxy Eyes", "orden": 5,
+      "descripcion": "Alarga y estiliza la mirada aumentando la longitud hacia el extremo externo, con un efecto lifting rasgado.",
+      "beneficios": [], "duracion_resultado": null, "fotos": ["/fotos/servicios/efecto-foxy-eyes.webp"]
+    },
+    {
+      "slug": "volumen-griego", "categoria": "pestanas", "nombre": "Volumen Griego", "orden": 6,
+      "descripcion": "Abanicos 4D y 5D que aportan densidad, textura y definición.",
+      "beneficios": ["Mayor densidad y definición", "Efecto voluminoso y elegante", "Mirada intensa"],
+      "duracion_resultado": null, "fotos": ["/fotos/servicios/volumen-griego.webp"]
+    },
+    {
+      "slug": "efecto-mojado", "categoria": "pestanas", "nombre": "Efecto Mojado", "orden": 7,
+      "descripcion": "Acabado brillante y definido, con pestañas que se ven “húmedas”, logrado con abanicos cerrados o técnicas mixtas.",
+      "beneficios": [], "duracion_resultado": null, "fotos": ["/fotos/servicios/efecto-mojado.webp"]
+    },
+    {
+      "slug": "mega-volumen", "categoria": "pestanas", "nombre": "Mega Volumen", "orden": 8,
+      "descripcion": "El diseño más tupido del estudio, con abanicos 6D o 7D.",
+      "beneficios": ["Máxima densidad", "Efecto dramático", "Ideal para miradas protagonistas"],
+      "duracion_resultado": null, "fotos": ["/fotos/servicios/mega-volumen.webp"]
+    },
+    {
+      "slug": "labios-soft-tint", "categoria": "micropigmentacion", "nombre": "Labios Soft Tint", "orden": 9,
+      "descripcion": "Técnica semipermanente que aporta color y definición a los labios.",
+      "beneficios": ["Color natural y progresivo", "Mayor definición del contorno", "Efecto “labios maquillados”", "Resultado elegante y sutil"],
+      "duracion_resultado": "1 a 3 años aprox.", "fotos": ["/fotos/servicios/labios-soft-tint.webp", "/fotos/servicios/labios-soft-tint-2.webp"]
+    },
+    {
+      "slug": "diseno-cejas-hilo", "categoria": "cejas", "nombre": "Diseño de Cejas con Hilo", "orden": 10,
+      "descripcion": "Técnica precisa para definir y limpiar las cejas con hilo: un diseño prolijo, simétrico y natural.",
+      "beneficios": [], "duracion_resultado": "2 a 4 semanas aprox.", "fotos": ["/fotos/servicios/diseno-cejas-hilo.webp"]
+    },
+    {
+      "slug": "hina-brows", "categoria": "cejas", "nombre": "Hina Brows (diseño con henna)", "orden": 11,
+      "descripcion": "Diseño y pigmentación temporal para lograr cejas más definidas y rellenas.",
+      "beneficios": [], "duracion_resultado": "Piel: 5 a 10 días · vello: hasta 4 semanas", "fotos": ["/fotos/servicios/hina-brows.webp"]
+    },
+    {
+      "slug": "brows-lamination", "categoria": "cejas", "nombre": "Brows Lamination", "orden": 12,
+      "descripcion": "Alinea, peina y define las cejas para un efecto ordenado, voluminoso y estilizado.",
+      "beneficios": [], "duracion_resultado": "4 a 6 semanas aprox.", "fotos": ["/fotos/servicios/brows-lamination.webp"]
+    }
+  ],
+  "cursos": [
+    {
+      "slug": "curso-extensiones-pestanas", "nombre": "Curso de Extensiones de Pestañas", "orden": 1,
+      "descripcion": "Aprendé desde cero la técnica de extensiones de pestañas, con práctica guiada y acompañamiento personalizado.",
+      "incluye": ["Cuadernillo", "Certificado", "Material para principiante", "Soporte de carrera durante 6 meses"],
+      "no_incluye": ["Kit"], "modalidad": "Presencial", "foto_url": "/fotos/cursos/curso-pestanas.webp"
+    },
+    {
+      "slug": "curso-cejas", "nombre": "Curso de Cejas", "orden": 2,
+      "descripcion": "Diseño, perfilado y técnicas de cejas para que empieces a trabajar con seguridad.",
+      "incluye": ["Cuadernillo", "Certificado", "Material para principiante", "Soporte de carrera durante 6 meses"],
+      "no_incluye": ["Kit"], "modalidad": "Presencial", "foto_url": "/fotos/cursos/curso-cejas.webp"
+    }
+  ],
+  "faq": [
+    { "pregunta": "¿Cómo reservo un turno?", "respuesta": "Las reservas se hacen únicamente por WhatsApp. Escribime con el servicio que te interesa y te paso los días y horarios disponibles." },
+    { "pregunta": "¿Hay que pagar una seña?", "respuesta": "Sí. Para confirmar tu turno se abona una seña de {sena} por transferencia. Ese monto se descuenta del total el día de tu cita." },
+    { "pregunta": "¿Qué medios de pago aceptan?", "respuesta": "{medios_pago}." },
+    { "pregunta": "¿Cuánto dura la cita?", "respuesta": "Aproximadamente 2 horas, según el servicio. Te recomiendo venir con tiempo y sin maquillaje en la zona a trabajar." },
+    { "pregunta": "¿Puedo cambiar o cancelar mi turno?", "respuesta": "Sí, avisame con anticipación por WhatsApp y buscamos otro día y horario." },
+    { "pregunta": "¿Cuál es el horario y dónde queda el estudio?", "respuesta": "Atiendo {horario}. El estudio queda en {direccion}. Pedime la ubicación exacta por WhatsApp." }
+  ],
+  "plantillas": [
+    { "clave": "agendar", "descripcion": "Botón «Agendar» de cada servicio. Variable: {servicio}", "publico": true,
+      "texto": "Hola Melani 👋 Quiero agendar una cita para *{servicio}*. Mi nombre es: ___ ¿Qué días y horarios tenés disponibles?" },
+    { "clave": "agendar_general", "descripcion": "Botón general de reservar (sin servicio)", "publico": true,
+      "texto": "Hola Melani 👋 Quiero agendar una cita. Mi nombre es: ___" },
+    { "clave": "ubicacion", "descripcion": "Botón «Ubicación»", "publico": true,
+      "texto": "Hola Melani 👋 ¿Me podrías enviar la ubicación del estudio?" },
+    { "clave": "curso", "descripcion": "Botón de cursos. Variable: {curso}", "publico": true,
+      "texto": "Hola Melani 👋 Quiero información sobre el *{curso}*." },
+    { "clave": "recordatorio", "descripcion": "Recordatorio a clientas. Variables: {nombre} {servicio} {fecha} {hora}", "publico": false,
+      "texto": "Hola {nombre} 👋 Te recuerdo tu cita de *{servicio}* mañana {fecha} a las {hora} en Estudio Melani Cristine. ¿Me confirmás tu asistencia? 🙏" }
+  ],
+  "categorias_gasto": [
+    { "nombre": "Insumos", "es_insumos": true, "orden": 1 },
+    { "nombre": "Alquiler", "es_insumos": false, "orden": 2 },
+    { "nombre": "Servicios (luz, agua, internet)", "es_insumos": false, "orden": 3 },
+    { "nombre": "Publicidad", "es_insumos": false, "orden": 4 },
+    { "nombre": "Equipamiento", "es_insumos": false, "orden": 5 },
+    { "nombre": "Otros", "es_insumos": false, "orden": 6 }
+  ]
+}

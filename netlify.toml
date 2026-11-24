@@ -1,0 +1,10 @@
+# Netlify (plan gratuito). Netlify detecta Next.js y usa su adaptador automáticamente.
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NEXT_TELEMETRY_DISABLED = "1"
+
+# Las funciones programadas (cron) van en netlify/functions/ — fases 2 y 4.

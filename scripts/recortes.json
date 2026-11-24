@@ -1,0 +1,23 @@
+[
+  { "pagina": "pagina-01.png", "destino": "fotos/melani-hero.webp", "x": 15, "y": 19, "ancho": 75, "alto": 69 },
+  { "pagina": "pagina-03.png", "destino": "fotos/melani-sobre-mi.webp", "x": 6, "y": 6, "ancho": 88, "alto": 84 },
+  { "pagina": "pagina-03.png", "destino": "fotos/cursos/curso-pestanas.webp", "x": 26, "y": 14, "ancho": 54, "alto": 38 },
+  { "pagina": "pagina-13.png", "destino": "fotos/cursos/curso-cejas.webp", "x": 31, "y": 43.4, "ancho": 38, "alto": 32 },
+
+  { "pagina": "pagina-04.png", "destino": "fotos/servicios/clasicas-naturales.webp", "x": 9.8, "y": 27, "ancho": 33.4, "alto": 28.6 },
+  { "pagina": "pagina-04.png", "destino": "fotos/servicios/clasicas-naturales-2.webp", "x": 9.8, "y": 59.2, "ancho": 33.4, "alto": 28.4 },
+  { "pagina": "pagina-05.png", "destino": "fotos/servicios/volumen-ligero.webp", "x": 12, "y": 30.5, "ancho": 30.7, "alto": 52 },
+  { "pagina": "pagina-06.png", "destino": "fotos/servicios/volumen-brasileno.webp", "x": 12.1, "y": 32.8, "ancho": 33.5, "alto": 17.6 },
+  { "pagina": "pagina-06.png", "destino": "fotos/servicios/volumen-brasileno-2.webp", "x": 12.1, "y": 51.4, "ancho": 33.5, "alto": 17.3 },
+  { "pagina": "pagina-07.png", "destino": "fotos/servicios/efecto-wispy.webp", "x": 12.1, "y": 27.5, "ancho": 33.4, "alto": 28.3 },
+  { "pagina": "pagina-07.png", "destino": "fotos/servicios/efecto-wispy-2.webp", "x": 12.1, "y": 59.3, "ancho": 33.4, "alto": 28.3 },
+  { "pagina": "pagina-08.png", "destino": "fotos/servicios/efecto-foxy-eyes.webp", "x": 33.4, "y": 49.2, "ancho": 33.2, "alto": 28.4 },
+  { "pagina": "pagina-09.png", "destino": "fotos/servicios/volumen-griego.webp", "x": 54.4, "y": 49, "ancho": 33.5, "alto": 28.3 },
+  { "pagina": "pagina-10.png", "destino": "fotos/servicios/efecto-mojado.webp", "x": 54.4, "y": 30.6, "ancho": 33.4, "alto": 28.5 },
+  { "pagina": "pagina-11.png", "destino": "fotos/servicios/mega-volumen.webp", "x": 54.4, "y": 44.1, "ancho": 33.5, "alto": 39 },
+  { "pagina": "pagina-12.png", "destino": "fotos/servicios/labios-soft-tint.webp", "x": 11.8, "y": 59.4, "ancho": 25.8, "alto": 21.9 },
+  { "pagina": "pagina-12.png", "destino": "fotos/servicios/labios-soft-tint-2.webp", "x": 55.9, "y": 59.4, "ancho": 25.9, "alto": 21.9 },
+  { "pagina": "pagina-13.png", "destino": "fotos/servicios/diseno-cejas-hilo.webp", "x": 30.9, "y": 43.3, "ancho": 38.2, "alto": 32.3 },
+  { "pagina": "pagina-14.png", "destino": "fotos/servicios/hina-brows.webp", "x": 61.9, "y": 38.1, "ancho": 24.2, "alto": 43.2 },
+  { "pagina": "pagina-15.png", "destino": "fotos/servicios/brows-lamination.webp", "x": 30.9, "y": 46.3, "ancho": 38.2, "alto": 29.3 }
+]
